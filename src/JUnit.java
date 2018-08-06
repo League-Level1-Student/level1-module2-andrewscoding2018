@@ -1,10 +1,11 @@
 import static org.junit.Assert.assertEquals;
 
-public class JUnit {
+import org.junit.Test;
 
-	@Override
-public void Unit() {
-	  assertEquals(4, add(2,2));
+public class JUnit {
+@Test
+	public void Unit() {
+	  assertEquals(5, add(2,2));
 }
 private static Object add(int i, int j) {
 	int b = i+ j;

@@ -1,4 +1,6 @@
 /Cup.class
+/J.class
+/JUnit.class
 /Kettle$Water.class
 /Kettle.class
 /Microwave.class
@@ -11,5 +13,7 @@
 /TeaBag.class
 /TeaMaker.class
 /extra/
-/JUnit.class
-/J.class
+/Minion.class
+/TeaParty.class
+/TeaPartyRunner.class
+/TeaPartyTest.class
