@@ -1,9 +1,9 @@
 /Cup.class
-/J.class
 /JUnit.class
 /Kettle$Water.class
 /Kettle.class
 /Microwave.class
+/Minion.class
 /MinionTest.class
 /Platypus.class
 /Popcorn.class
@@ -12,8 +12,8 @@
 /Run.class
 /TeaBag.class
 /TeaMaker.class
-/extra/
-/Minion.class
 /TeaParty.class
 /TeaPartyRunner.class
-/TeaPartyTest.class
+/extra/
+/Vault.class
+/JamesBond.class
